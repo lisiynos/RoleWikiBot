@@ -1,3 +1,3 @@
 # RoleWikiBot
 
-Wiki-bot для ролевой игры
+Telegram Wiki-bot для ролевой игры
